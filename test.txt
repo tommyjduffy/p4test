@@ -1,1 +1,3 @@
 this is my first text file added to my git thing
+all work and no play makes jack a dull boy
+
